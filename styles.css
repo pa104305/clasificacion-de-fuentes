@@ -1,0 +1,101 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    margin: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+div{
+    text-align: left;
+    background: lightgreen;
+    border: 1px solid black;
+}
+header{
+    font-size: 25px;
+    text-align: left;
+    text-shadow: 5px 5px 2px gray;
+}
+.cd{
+    width: 600px;
+    margin-left: 20px;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+.a{
+    padding:2px;
+    background: lightskyblue;
+    margin: 5px;
+    border: 1px solid black;
+}
+.b{
+    padding: 2px;
+    margin: 5px;
+    background: lightblue;
+    border: 1px solid black;
+}
+.b h1{
+    margin-left: 50px;
+}
+.c{
+    padding:2px;
+    background: lightskyblue;
+    margin: 5px;
+    border: 1px solid black;
+}
+.c h1{
+    margin-left: 50px;
+}
+.c h2{
+    margin-left: 25px;
+}
+.c li{
+    margin: 18px;
+    padding: 0px;
+}
+.d{
+    padding: 2px;
+    margin: 5px;
+    background: lightblue;
+    border: 1px solid black;
+}
+.d h1{
+    margin-left: 50px;
+}
+.d h2{
+    margin-left: 25px;
+}
+.d li{
+    margin: 18px;
+    padding: 0px;
+}
+.e{
+    padding:2px;
+    background: lightskyblue;
+    margin: 5px;
+    border: 1px solid black;
+}
+.e h1{
+    margin-left: 50px;
+}
+.e h2{
+    margin-left: 25px;
+}
+.e li{
+    margin: 18px;
+    padding: 0px;
+}
+.e img{
+    margin-left: 10px;
+}
+.f{
+    padding: 2px;
+    background: aquamarine;
+    margin: 5px;
+    border: 1px solid black;
+}
+.fin{
+    font-size: 30px;
+    text-align: center;
+}
